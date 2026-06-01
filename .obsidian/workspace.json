@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "163ce851b232d4a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "13c419c6c908c44c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbcd115aa3d0929a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "34_Этапы решения. Этап 1. Уяснение проблемы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "34_Этапы решения. Этап 1. Уяснение проблемы"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c186cfef744579f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9372f30aca74554c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4646a3ab68603942",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "243e648839f99f80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "25b0b5cadbdd5583",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99d1dc119fafe776",
+    "type": "split",
+    "children": [
+      {
+        "id": "d31904e1f59005f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba4f56e33d7dc4bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "34_Этапы решения. Этап 1. Уяснение проблемы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 34_Этапы решения. Этап 1. Уяснение проблемы"
+            }
+          },
+          {
+            "id": "097de1fafdd3a36e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "34_Этапы решения. Этап 1. Уяснение проблемы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 34_Этапы решения. Этап 1. Уяснение проблемы"
+            }
+          },
+          {
+            "id": "bf469b0be8afef93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9f99604250cb8e90",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2fe71d47576cb347",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "34_Этапы решения. Этап 1. Уяснение проблемы.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 34_Этапы решения. Этап 1. Уяснение проблемы"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "floating": {
+    "id": "6529a98c3c0acb0f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c98b48f448fef2d9",
+        "type": "window",
+        "children": [
+          {
+            "id": "a6b3d869823b05bb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2ff7c6ce6957e4e9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "34_Этапы решения. Этап 1. Уяснение проблемы.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "34_Этапы решения. Этап 1. Уяснение проблемы"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 902,
+        "y": 41,
+        "width": 658,
+        "height": 1048,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2ff7c6ce6957e4e9",
+  "lastOpenFiles": [
+    "33_Решение проблемы как процесс управления (общая схема).md",
+    "32_Критерии достижения целей.md",
+    "31_Понятие \"цель\" и классификация целей.md",
+    "30_Понятие \"решение\".md",
+    "29_Понятие \"проблема\".md",
+    "28_Основные понятия системного анализа.md",
+    "27_Системы и их свойства.md",
+    "0_Вопросы.md",
+    "4_Методы одномерной оптимизации в ЗНП. Метод золотого сечения.md",
+    "3_Методы одномерной оптимизации в ЗНП. Метод дихотомического поиска.md",
+    "5_Методы одномерной оптимизации в ЗНП. Метод фибоначчи.md",
+    "6_Методы одномерной оптимизации с использованием информации о производных.md",
+    "2_Сравнительный анализ задач НП и ЛП.md",
+    "1_Постановка и классификация задач нелинейного программирования.md",
+    "10_Метод Хука-дживса с дискретными шагами.md",
+    "42_Этапы когнитивного анализа.md",
+    "41_Цель построения когнитивной модели.md",
+    "40_Неопределенность и информация в задачах принятия решений.md",
+    "39_Формализация задач принятия решений.md",
+    "38_Этапы решения. Этап 6,7,8. Анализ взаимовлияния целей, принятие решения, реализация решения.md",
+    "Screenshot 2026-05-31 at 20.34.50.png",
+    "Pasted image 20260531203347.png",
+    "Pasted image 20260531203330.png",
+    "Pasted image 20260531203002.png",
+    "Pasted image 20260531202822.png",
+    "Pasted image 20260531202709.png",
+    "Pasted image 20260531202700.png",
+    "Pasted image 20260531202319.png",
+    "Pasted image 20260531202259.png",
+    "Pasted image 20260531202255.png",
+    "37_Этапы решения. Этап 4,5. Разработка вариантов решения, анализ ограничений.md",
+    "36_Этапы решения. Этап 3. Определение целей.md",
+    "35_Этапы решения. Этап 2. Структурирование проблемы.md",
+    "34_Этапы решения. Этап 1. Уяснение проблемы.md",
+    "12_Метод Недлера-Мида.md",
+    "11_Метод многомерной оптимизации Розенброка.md"
+  ]
+}
